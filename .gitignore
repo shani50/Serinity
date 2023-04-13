@@ -1,0 +1,6 @@
+# Project exclude paths
+/SerinityDemo/.gradle/
+/SerinityDemo/build/
+/SerinityDemo/build/classes/java/main/
+/SerinityDemo/build/classes/java/test/
+/SerinityDemo/target/
